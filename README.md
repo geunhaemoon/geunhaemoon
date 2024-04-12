@@ -7,9 +7,9 @@ Full-stack Developer
 
 
 
-<table>
   <tr>
     <td style="font-weight: 700;">Language</td>
+    <p><strong>Language</strong></p>
   </tr>
   <tr>
     <td>
@@ -45,6 +45,6 @@ Full-stack Developer
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />  
     </td>
   </tr>
-</table>
+
 
 
