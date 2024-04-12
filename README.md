@@ -42,7 +42,7 @@ Full-stack Developer
   </tr>
   <tr>
     <td>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />  
     </td>
   </tr>
 </table>
