@@ -7,16 +7,16 @@ Full-stack Developer
 
 
 
-  <tr>
+  <div>
     <td style="font-weight: 700;">Language</td>
     <p><strong>Language</strong></p>
-  </tr>
+  </div>
   <tr>
-    <td>
+    <div>
       <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" />
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" />
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-    </td>
+    </div>
   </tr>
   <tr>
     <td style="font-weight: 700;">Web Front-End</td>
