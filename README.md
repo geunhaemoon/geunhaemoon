@@ -3,8 +3,13 @@
 
 # 문근해 geunhae Moon
 
-<b>Frontend Developer & Backend Developer </b>
-<b>Full-stack Developer</b>
+
+<div> 
+  <b>Frontend Developer & Backend Developer </b>
+</div>
+<div> 
+  <b>Full-stack Developer</b>
+</div>
 
 <!--Language-->
   <div>
