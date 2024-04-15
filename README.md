@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=74AEDE&text=GeunHae&fontColor=0E2243&fontAlign=90)
+![header](https://capsule-render.vercel.app/api?type=slice&color=74AEDE&text=GeunHae&fontColor=0E2243&fontAlign=70)
 
 <div> 
   <b>Frontend Developer & Backend Developer </b>
