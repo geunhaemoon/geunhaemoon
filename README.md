@@ -1,7 +1,7 @@
 
 # 문근해 geunhae Moon
 
-![header](https://capsule-render.vercel.app/api?type=slice&theme=dark)
+![header](https://capsule-render.vercel.app/api?type=slice&theme=dark&text=GeunHae Moon)
 
 
 
