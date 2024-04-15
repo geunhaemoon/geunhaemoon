@@ -1,9 +1,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=slice&theme=dark&text=GeunHaeMoon)
 
-# 문근해 geunhae Moon
-
-
 <div> 
   <b>Frontend Developer & Backend Developer </b>
 </div>
@@ -50,6 +47,7 @@
   </div>    
 
 
+#
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgeunhaemoon&count_bg=%2340C8DC&title_bg=%235598D0&icon=awesomelists.svg&icon_color=%233B3B3B&title=Welcome+to+my+GitHub&edge_flat=false)](https://hits.seeyoufarm.com)
 
