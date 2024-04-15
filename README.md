@@ -45,4 +45,4 @@
 
 
 
-![waving](https://capsule-render.vercel.app/api?type=waving&height=170&text=Thank%20you&fontSize=50&fontAlign=79&fontAlignY=70&color=gradient&section=footer)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=100&text=Thank%20you&fontSize=30&fontAlign=79&fontAlignY=70&color=gradient&section=footer)
