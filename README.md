@@ -1,6 +1,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=slice&height=100&color=74AEDE&text=GeunHae&fontColor=eeeeee&fontAlign=84&fontSize=60&fontAlignY=40&stroke=0E2243&strokeWidth=2)
 
+
+![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=GeunHae&fontAlign=70&rotate=13&fontAlignY=25&desc=moon%20geunhae%20github&descAlign=60&descAlignY=44)
 <div> 
   <b>Frontend Developer & Backend Developer </b>
 </div>
