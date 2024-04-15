@@ -1,4 +1,4 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=180&text=GeunHae%20Moon&fontAlign=69&fontAlignY=30&color=gradient&desc=Frontend%20Backend%20Full-stack%20Developer&descAlign=70&section=header)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=180&text=GeunHae%20Moon&fontAlign=69&fontAlignY=30&color=gradient&desc=Frontend%20Backend%20Full-stack%20Developer&descAlign=70&section=header)
 
 ## 📞 Contact 📞
 
@@ -47,4 +47,4 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgeunhaemoon&count_bg=%2340C8DC&title_bg=%235598D0&icon=awesomelists.svg&icon_color=%233B3B3B&title=Welcome+to+my+GitHub&edge_flat=false)](https://hits.seeyoufarm.com)
 
-![waving](https://capsule-render.vercel.app/api?type=waving&height=100&text=Thank%20you&fontSize=30&fontAlign=88&fontAlignY=78&color=gradient&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&height=100&text=Thank%20you&fontSize=30&fontAlign=88&fontAlignY=78&color=gradient&section=footer)
