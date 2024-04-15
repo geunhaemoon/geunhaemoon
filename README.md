@@ -1,9 +1,9 @@
 
 # 문근해 geunhae Moon
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto)
+![header](https://capsule-render.vercel.app/api?type=slice&theme=dark)
 
-![reversal](https://capsule-render.vercel.app/api?type=rect&text=RECT&fontAlign=30&fontSize=30&desc=Use%20theme&descAlign=60&descAlignY=50&theme=radical)
+
 
 Frontend Developer & Backend Developer 
 
