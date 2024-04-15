@@ -1,6 +1,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=slice&height=100&color=74AEDE&text=GeunHae&fontColor=efefef&fontAlign=84&fontSize=60&fontAlignY=40)
-![header](https://capsule-render.vercel.app/api?type=slice&height=100&color=74AEDE&text=GeunHae&fontColor=efefef&fontAlign=84&fontSize=60&fontAlignY=40&stroke=0E2243)
+![header](https://capsule-render.vercel.app/api?type=slice&height=100&color=74AEDE&text=GeunHae&fontColor=efefef&fontAlign=84&fontSize=60&fontAlignY=40&stroke=0E2243&strokeWidth=5)
 
 <div> 
   <b>Frontend Developer & Backend Developer </b>
