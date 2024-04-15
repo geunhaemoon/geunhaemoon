@@ -1,5 +1,6 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=180&text=GeunHae%20Moon&fontAlign=69&fontAlignY=30&color=gradient&desc=Frontend%20Backend%20Full-stack%20Developer&descAlign=70)
-# 
+![waving](https://capsule-render.vercel.app/api?type=waving&height=180&text=GeunHae%20Moon&fontAlign=69&fontAlignY=30&color=gradient&desc=Frontend%20Backend%20Full-stack%20Developer&descAlign=70&section=header)
+
+## 📞 Contact 📞
 
 ## 🔨 Once I've used 🔨
 <!--Language-->
