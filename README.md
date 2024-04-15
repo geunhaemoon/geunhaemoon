@@ -1,8 +1,5 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=GeunHae%20Moon&fontAlign=69&fontAlignY=40&color=gradient&desc=Frontend%20Backend%20Full-stack%20Developer&descAlign=70)
 
-![Footer](https://capsule-render.vercel.app/api?tye=waving&color=auto&height=150$section=footer)
-
-
 # 
 <!--Language-->
   <div>
@@ -48,4 +45,4 @@
 
 
 
-
+![Footer](https://capsule-render.vercel.app/api?tye=waving&color=auto&height=200$section=footer)
