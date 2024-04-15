@@ -1,4 +1,4 @@
-![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=210&text=GeunHaeMoon&fontAlign=70&rotate=13&fontAlignY=25&desc=Frontend%20Backend%20Full-stack%20Developer&descAlign=60&descAlignY=44)
+![slice](https://capsule-render.vercel.app/api?type=slice&color=74AEDE&textColor=FFFFFF&height=210&text=GeunHaeMoon&fontAlign=70&rotate=13&fontAlignY=25&desc=Frontend%20Backend%20Full-stack%20Developer&descAlign=60&descAlignY=44)
 # 
 <!--Language-->
   <div>
