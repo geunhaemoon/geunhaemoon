@@ -1,6 +1,9 @@
 # 문근해 geunhae Moon
 
 
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub .com%2F근해문&count_bg=%2355BBEE&title_bg=%236596FF&icon=awesomelists.svg&icon_color=%23000000&title=Welcome+to+my+GitHub&edge_plat=false"/></a>
+
+
 Frontend Developer & Backend Developer 
 
 Full-stack Developer
