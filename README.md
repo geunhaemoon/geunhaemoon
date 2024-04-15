@@ -1,4 +1,4 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=GeunHae%20Moon&fontAlign=69&fontAlignY=40&color=gradient&desc=Frontend%20Backend%20Full-stack%20Developer&descAlign=70)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=GeunHae%20Moon&fontAlign=69&fontAlignY=30&color=gradient&desc=Frontend%20Backend%20Full-stack%20Developer&descAlign=70)
 
 # 
 <!--Language-->
@@ -45,4 +45,4 @@
 
 
 
-![waving](https://capsule-render.vercel.app/api?type=waving&height=170&text=Thank%20you&fontAlign=79&fontAlignY=70&color=gradient&section=footer)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=170&text=Thank%20you&fontSize=50 &fontAlign=79&fontAlignY=70&color=gradient&section=footer)
