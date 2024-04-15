@@ -1,4 +1,9 @@
 ![slice](https://capsule-render.vercel.app/api?type=slice&color=74AEDE&height=210&text=GeunHaeMoon&fontAlign=70&fontColor=FFFFFF&rotate=13&fontAlignY=25&desc=Frontend%20Backend%20Full-stack%20Developer&descAlign=60&descAlignY=44)
+
+
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=GeunHae%20Moon&fontAlign=80&fontAlignY=40&color=gradient)
+
+
 # 
 <!--Language-->
   <div>
