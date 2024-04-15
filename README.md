@@ -1,14 +1,10 @@
 
-# 문근해 geunhae Moon
-
 ![header](https://capsule-render.vercel.app/api?type=slice&theme=dark&text=GeunHaeMoon)
 
+# 문근해 geunhae Moon
 
-
-Frontend Developer & Backend Developer 
-
-Full-stack Developer
-
+<b>Frontend Developer & Backend Developer </b>
+<b>Full-stack Developer</b>
 
 <!--Language-->
   <div>
