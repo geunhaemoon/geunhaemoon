@@ -1,4 +1,4 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=GeunHae%20Moon&fontAlign=69&fontAlignY=30&color=gradient&desc=Frontend%20Backend%20Full-stack%20Developer&descAlign=70)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=160&text=GeunHae%20Moon&fontAlign=69&fontAlignY=30&color=gradient&desc=Frontend%20Backend%20Full-stack%20Developer&descAlign=70)
 
 # 
 <!--Language-->
